@@ -9,6 +9,7 @@ This is the first homework of the NLP 2023 course at Sapienza University of Rome
 
 #### Teaching Assistants
 
+* **Edoardo Barba**
 * **Tommaso Bonomo**
 * **Karim Ghonim**
 * **Giuliano Martinelli**
