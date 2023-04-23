@@ -5,6 +5,7 @@ WORKDIR /home/app
 # install requirements
 
 COPY requirements.txt .
+RUN apt-get update && apt-get install --no-install-recommends --yes build-essential
 RUN pip install -r requirements.txt
 
 # copy model
